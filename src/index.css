@@ -1,0 +1,18 @@
+
+body {
+  background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,173,253,1) 100%);
+}
+
+ 
+ #root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}
+
+ 
+ 
+ 
+ 
+
